@@ -1,0 +1,2 @@
+- số tiền nhập vào ko có khoảng cách
+- mỗi lần ấn tính ra cần ấn xóa sạch trước khi tính mới  
